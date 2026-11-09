@@ -4,8 +4,8 @@
 
 | | Kits industrializados | Quadros elétricos |
 |---|---|---|
-| Gestão | Gestor dedicado | Sem gestor; engenheiro em meio período, por demanda |
-| Processo | Documentado: arquivo-raiz, padrão de pastas, OP, etiquetas, procedimentos | Informal: dependia do conhecimento de uma pessoa |
+| Gestão | Gestor dedicado | Sem gestor nem equipe dedicada |
+| Processo | Documentado: arquivo-raiz, padrão de pastas, OP, etiquetas, procedimentos | Informal, sem processo documentado |
 | Medição | Cronograma fabril e controle de entregas | Sem indicadores de capacidade, homem-hora ou prazo |
 | Compras e estoque | Estruturado | Compras urgentes por falta de componente; estoque nunca consolidado |
 
